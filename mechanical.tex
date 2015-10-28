@@ -1,0 +1,83 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{latexsym}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{graphicx}
+\usepackage[headheight=15pt, margin=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{pdflscape}
+\usepackage{ctable}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[binary-units=true]{siunitx}
+\usepackage{enumitem}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{hhline}
+\usepackage{tabulary}
+\usepackage[nottoc, notlof, notlot]{tocbibind}
+\usepackage[framed]{mcode}
+%\usepackage{indentfirst}
+\usepackage{standalone}
+\usepackage{fancyhdr}
+\usepackage{array}
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\lstset{breaklines}
+\usepackage[hyphens]{url}
+\usepackage{cleveref}
+\setlength{\parindent}{0em}
+%\renewcommand{\baselinestretch}{1.3}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{SRK}
+\rhead{Mechanical Design}
+
+\begin{document}
+\include{cover_mech}		%Cover page
+\cfoot{\normalsize\thepage}
+\pagenumbering{roman}% Roman-numbered pages (start from i)
+\onehalfspacing
+\newpage
+\include{mech_symbols}
+\newpage
+\include{mech_summary}
+\newpage
+\singlespacing
+\tableofcontents
+\onehalfspacing
+\newpage
+\listoffigures
+\listoftables
+
+\clearpage
+\cfoot{\normalsize\thepage}
+\pagenumbering{arabic}% Arabic-numbered pages (start from 1)
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\section{Overview}
+\label{sect:intro}
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\section{Requirements for Mechanical Functions in System}
+\label{sect:requirements}
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\section{Trade Studies}
+\label{sect:tradeoff}
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\section{Architecture}
+\label{sect:architecture}
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\section{Mass Budget}
+\label{sect:mass}
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\newpage
+\bibliographystyle{unsrt}
+\bibliography{reportbib}
+
+\newpage
+\appendix
+
+
+\end{document}
