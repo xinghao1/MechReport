@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Overview}{1}
+\contentsline {section}{\numberline {2}Requirements for Mechanical Functions in System}{2}
+\contentsline {subsection}{\numberline {2.1}Locomotion Subsystem}{2}
+\contentsline {subsection}{\numberline {2.2}Data Handling and Processing}{2}
+\contentsline {subsection}{\numberline {2.3}Thermal Control Subsystem}{3}
+\contentsline {subsection}{\numberline {2.4}Power Supply Subsystem}{4}
+\contentsline {subsection}{\numberline {2.5}End Effector Subsystem}{4}
+\contentsline {subsection}{\numberline {2.6}Sensors Subsystem}{5}
+\contentsline {subsection}{\numberline {2.7}Frame Subsystem}{6}
+\contentsline {section}{\numberline {3}Trade Studies}{6}
+\contentsline {subsection}{\numberline {3.1}Architecture}{6}
+\contentsline {subsection}{\numberline {3.2}Material of Frame}{9}
+\contentsline {subsection}{\numberline {3.3}Thermal Control System}{10}
+\contentsline {subsection}{\numberline {3.4}Power Storage}{12}
+\contentsline {subsection}{\numberline {3.5}End Effector}{12}
+\contentsline {subsection}{\numberline {3.6}Locomotion - Motor type}{13}
+\contentsline {subsection}{\numberline {3.7}Locomotion - Joint type}{15}
+\contentsline {section}{\numberline {4}Architecture}{15}
+\contentsline {section}{\numberline {5}Mass Budget}{16}
+\contentsline {section}{\numberline {6}Conclusion}{17}
+\contentsline {section}{References}{18}
+\contentsline {section}{\numberline {A}Temperature Range of Components}{22}
+\contentsline {section}{\numberline {B}Thermal Calculations}{24}
+\contentsline {section}{\numberline {C}Load Calculations}{25}
+\contentsline {section}{\numberline {D}Joint Motion Range for Canadarm2 and ERA}{29}

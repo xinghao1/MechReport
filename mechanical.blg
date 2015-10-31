@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: mechanical.aux
+A level-1 auxiliary file: cover_mech.aux
+A level-1 auxiliary file: mech_symbols.aux
+A level-1 auxiliary file: mech_summary.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: optemps.aux
+A level-1 auxiliary file: tempcalc.aux
+A level-1 auxiliary file: loadcalc.aux
+Database file #1: reportbib.bib
+I was expecting a `,' or a `}'---line 20 of file reportbib.bib
+ : 
+ : @misc{NASAauto,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 32 of file reportbib.bib
+ :  note
+ :      {Accessed: 07 October 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 39 of file reportbib.bib
+ :  note
+ :      {Accessed: 07 October 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 46 of file reportbib.bib
+ :  note
+ :      {Accessed: 07 October 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 53 of file reportbib.bib
+ :  note
+ :      {Accessed: 07 October 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 62 of file reportbib.bib
+ :  note
+ :      {Accessed: 07 October 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 69 of file reportbib.bib
+ :  note
+ :      {Accessed: 22 September 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 76 of file reportbib.bib
+ :  note
+ :      {Accessed: 05 October 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 83 of file reportbib.bib
+ :  note
+ :      {Accessed: 07 October 2015}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 90 of file reportbib.bib
+ :  note
+ :      {Accessed: 07 October 2015}
+I'm skipping whatever remains of this entry
+Warning--empty chapter and pages in carbonfibreprop
+Warning--empty publisher in carbonfibreprop
+Warning--empty year in NiH_se
+Too many commas in name 1 of "S. Hayati, J. Balaram, H. Seraji, W. S. Kim, K. Tso and V. Prasad" for entry NASAinspect_Hayati
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "S. Hayati, J. Balaram, H. Seraji, W. S. Kim, K. Tso and V. Prasad" for entry NASAinspect_Hayati
+while executing---line 944 of file unsrt.bst
+(There were 12 error messages)

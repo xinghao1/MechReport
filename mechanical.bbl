@@ -1,0 +1,234 @@
+\begin{thebibliography}{10}
+
+\bibitem{ERA_joints}
+D.~Verhoeven.
+\newblock {Space Mechanisms and Tribology for the Joints of the European
+  Robotic Arm (ERA)}.
+\newblock
+  \url{http://www.researchgate.net/publication/228598591_Space_mechanisms_and_tribology_for_the_joints_of_the_European_Robot_Arm_(ERA)}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{NASAsysreq_Kumar}
+R.~Kumar and R.~Hayes.
+\newblock {System Requirements and Design Features of Space Station Remote
+  Manipulator System Mechanics}.
+\newblock
+  \url{http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19910015291.pdf}.
+
+\bibitem{carbonfibreprop}
+P.~J. Walsh.
+\newblock {\em {Carbon Fibers}}, volume~21.
+\newblock 2001.
+
+\bibitem{alumniumprop}
+ASM Aerospace Spcification~Metals Inc.
+\newblock {ASM Material Data Sheet: Aluminum 7075-T6; 7075-T651}.
+\newblock
+  \url{http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA7075T6}.
+\newblock Accessed: 2015/10/30.
+
+\bibitem{steelprop}
+ASM Aerospace Spcification~Metals Inc.
+\newblock {ASM Material Data Sheet: AISI Type 304 Stainless Steel}.
+\newblock
+  \url{http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MQ304A}.
+\newblock Accessed: 2015/10/30.
+
+\bibitem{titaniumprop}
+Arcam~EBM System.
+\newblock {Ti6Al4V Titanium Alloy}.
+\newblock
+  \url{http://www.arcam.com/wp-content/uploads/Arcam-Ti6Al4V-Titanium-Alloy.pdf}.
+\newblock Accessed: 2015/10/30.
+
+\bibitem{Liion_Mars}
+B.~V. Ratnakumar{,} M. C. Smart{,} L.D.~Wh itcanack{,} R.~C.~Ewell and
+  S.~Surampudi.
+\newblock {Li-Ion Rechargeable Batteries on Mars Exploration }.
+\newblock
+  \url{http://www.researchgate.net/publication/238794735_Li-Ion_Rechargeable_Batteries_on_Mars_Exploration_Rovers},
+  2014.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{ISS_power}
+National Aeronautics and Space Administration.
+\newblock {NASA Glenn Contributions to the International Space Station (ISS)
+  Electrical Power System}.
+\newblock \url{http://www.nasa.gov/centers/glenn/about/fs06grc.html}, 2011.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{batt_primer}
+{Product Engineering Processes: Battery Primer}.
+\newblock
+  \url{http://web.mit.edu/2.009/www/resources/mediaAndArticles/batteriesPrimer.pdf}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{NiH_se}
+B.~L. Theraja{,} A.~K. Theraja and S.~G. Tarnekar.
+\newblock {\em {A Textbook of Electrical Technology}}, volume~1.
+\newblock S. Chand \& Company Ltd.
+
+\bibitem{NASA_energy}
+V.~J. Lyons{,} G. A. Gonzalez{,} M. G. Houts{,} C. J. Iannello{,} J.~H. Scott
+  and S.~Surampudi.
+\newblock {DRAFT Space Power and Energy Storage Roadmap}.
+\newblock
+  \url{http://www.nasa.gov/pdf/501328main_TA03-SpacePowerStorage-DRAFT-Nov2010-A.pdf},
+  2010.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{CJME_EE}
+F.~Feng{,} Y. W. Liu{,}~H. Liu and H.~G. Cai.
+\newblock {Design schemes and comparison research of the end-effector of large
+  space manipulator}.
+\newblock {\em Chinese Journal of Mechanical Engineering}, 25:674--687, 2012.
+
+\bibitem{orbital_capture}
+S.~Stamm and P.~Motaghedi.
+\newblock {Orbital Express Capture System: concept to reality}.
+\newblock
+  \url{https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCMQFjABahUKEwjnhYO4_-PIAhUJOD4KHeHDA6w&url=http%3A%2F%2Fproceedings.spiedigitallibrary.org%2Fdata%2FConferences%2FSPIEP%2F23638%2F78_1.pdf&usg=AFQjCNF9IRxuXLLgWgLNJ6nhpsV8AOlW1g&sig2=28L88GvkGFYKDdwUMC28rw}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{ERA_EE}
+C.~J. M. Heemskerk{,}~M. Visser and D.~Vrancken.
+\newblock
+  {http://robotics.estec.esa.int/ASTRA/Astra2006/Papers/ASTRA2006-3.1.2.05.pdf}.
+\newblock
+  \url{http://robotics.estec.esa.int/ASTRA/Astra2006/Papers/ASTRA2006-3.1.2.05.pdf},
+  2006.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{ESA_motor}
+E.~Favre{,} P. Gay-Crosier{,}~N. Wavre and M.~Verain.
+\newblock {European Electric Space Related Motors Handbook}.
+\newblock
+  \url{http://www.esmats.eu/esmatspapers/pastpapers/pdfs/1999/favre.pdf}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{ERA_motor}
+F.C. Baker{,} E. Favre{,} J.-M. Mozzon{,}~A. Crausaz and P.~Juriens.
+\newblock {European Robotic Arm (ERA) Manipulator Joint SystemMotor Unit and
+  Tribological Brake}.
+\newblock
+  \url{http://www.esmats.eu/esmatspapers/pastpapers/pdfs/1999/baker.pdf}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{arm_comp}
+P.~Laryssa{,} E. Lindsay{,} O. Layi{,} O. Marius{,} K. Nara{,}~L. Aris and
+  T.~Ed.
+\newblock {International Space Station Robotics: A Comparative Study of ERA,
+  JEMRMS and MSS}.
+\newblock In {\em 7th ESA Workshop on Advanced Space Technologies for Robotics
+  and Automation 'ASTRA 2002'ESTEC}, 2002.
+
+\bibitem{RFP}
+MacDonald Dettwiler and Associates.
+\newblock {Canada's Next Generation Robotics - Request for Proposal}, 2015.
+
+\bibitem{LISA_budget}
+National Aeronautics and Space Administration.
+\newblock {Laser Interferometer Space Antenna (LISA) System Technical Budgets}.
+\newblock \url{http://lisa.nasa.gov/Documentation/LISA-MSE-BR-0001.pdf}, 2009.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{TUD_mass}
+TU~Delft.
+\newblock {Spacecraft preliminary mass estimation \& allocation}.
+\newblock
+  \url{http://www.lr.tudelft.nl/en/organisation/departments/space-engineering/space-systems-engineering/expertise-areas/spacecraft-engineering/blind-documents/spacecraft-mass-budget/}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{NASA_microrover}
+L.~A. Garc\'ia and E.~Cester.
+\newblock {Analysis and Design of Microrover Delivery System}.
+\newblock \url{https://solarsystem.nasa.gov/docs/p398.pdf}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{cameras}
+Malin Space~Science Systems.
+\newblock {Standard Modular Space Camera Systems}.
+\newblock \url{http://www.msss.com/space-cameras/}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{ESM_telescopic}
+L.~Bourrec{,} L. Bernab\'e{,}~V. Pires and S.~Tremolieres.
+\newblock {Telescopic Boom for Space Applications Engineering Model}.
+\newblock
+  \url{http://www.esmats.eu/esmatspapers/pastpapers/pdfs/2011/bourrec.pdf}.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{IEEE_Carm}
+MacDonald Dettwiler and Associates.
+\newblock {The Shuttle Remote Manipulator System - The Canadarm}.
+\newblock \url{http://www.ieee.ca/millennium/canadarm/canadarm_technical.html}.
+\newblock Accessed: 2015/09/22.
+
+\bibitem{IEEE_RMSperformance}
+R.~Gillet and F.~Ho.
+\newblock {Remote Manipulator System Performance Improvements Using a
+  Fibre-Optic based Architecture}.
+\newblock
+  \url{http://ieeexplore.ieee.org.myaccess.library.utoronto.ca/stamp/stamp.jsp?tp=&arnumber=727460&tag=1},
+  1998.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{spacedesigntemp}
+J.~E. Keese.
+\newblock {Spacecraft Thermal Control Systems}.
+\newblock
+  \url{http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-851-satellite-engineering-fall-2003/lecture-notes/l23thermalcontro.pdf}.
+
+\bibitem{NASAEE_Mishkin}
+A.H. Mishkin and B.M. Jau.
+\newblock {Space-Based Multifunctional End Effector Systems}.
+\newblock
+  \url{http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19890001866.pdf}.
+
+\bibitem{NASAinspect_Hayati}
+H.~Seraji W. S. Kim K.~Tso S.~Hayati, J.~Balaram and V.~Prasad.
+\newblock {Remote Surface Inspection System}.
+\newblock
+  \url{http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930022910.pdf}.
+
+\bibitem{IM_solidprop}
+Isidoro Mart\'inez.
+\newblock {Properties of Solids}.
+\newblock \url{http://webserver.dmt.upm.es/~isidoro/dat1/eSol.pdf}, 2015.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{GPL_solar}
+G.~Kopp and J.~L. Lean.
+\newblock {A new, lower value of total solar irradiance: Evidence and climate
+  significance}.
+\newblock {\em Geophysical Research Letters}, 38, 2011.
+
+\bibitem{RRE_solar}
+Red~Rock Energy.
+\newblock {Heliostat Design Concepts: Solar Absorption \& Emissivity}.
+\newblock \url{http://www.redrok.com/concept.htm#emissivity}, 2012.
+\newblock Accessed: 2015/10/25.
+
+\bibitem{ISS_Harmony}
+National Aeronautics and Space Administration.
+\newblock {International Space Station: Harmony}.
+\newblock
+  \url{http://www.nasa.gov/mission_pages/station/structure/elements/node2.html#.VjP1L7erRD-}.
+\newblock Accessed: 2015/10/30.
+
+\bibitem{delta_launch}
+United~Launch Alliance.
+\newblock {Delta IV Launch Services User’s Guide}.
+\newblock
+  \url{http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf},
+  2013.
+\newblock Accessed: 2015/10/28.
+
+\bibitem{atlas_launch}
+United~Launch Alliance.
+\newblock {Atlas V Launch Services User’s Guide}.
+\newblock \url{http://www.ulalaunch.com/uploads/docs/AtlasVUsersGuide2010.pdf},
+  2010.
+\newblock Accessed: 2015/10/28.
+
+\end{thebibliography}
